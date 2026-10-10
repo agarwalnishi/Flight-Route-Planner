@@ -1,0 +1,10 @@
+# CMake build folders
+build/
+build-*/
+cmake-build-*/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
